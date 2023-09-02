@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/DSC_0257.JPG
+image: img/DSC_0267.JPG
 title: "TiredGrad"
 date: 2023-09-01
 published: true
