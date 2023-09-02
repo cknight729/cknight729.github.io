@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/DSC_0257.jpg
 title: "TiredGrad"
 date: 2023-09-01
 published: true
