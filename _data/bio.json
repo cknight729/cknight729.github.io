@@ -27,6 +27,10 @@
     {
       "name": "Toolsets/OS",
       "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+    },
+    {
+      "name": "Other Skills",
+      "keywords": [ "Leadership", "Communication", "Teamwork", "Analytical Skills" ]
     }
   ],
   "education": [
