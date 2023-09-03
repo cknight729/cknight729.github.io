@@ -85,15 +85,15 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Maryknoll School",
+      "website": "https://www.maryknollschool.org/",
+      "position": "Tennis Boys & Girls D1 Assistant Coach",
+      "startDate": "2022-04-08",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Coaching and instructing tennis to students at the intermediate, junior varsity, and varsity levels.",
+        "Our teams play competitively with other schools in the ILH with select students going on to play in the yearly state tournament."
       ]
     }
   ],
