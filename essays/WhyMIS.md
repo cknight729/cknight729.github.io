@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Why did I choose MIS?"
 # All dates must be YYYY-MM-DD format!
-date: 2023-09-01
+date: 2024-01-22
 published: true
 labels:
   - MIS
