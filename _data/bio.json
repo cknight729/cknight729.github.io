@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "Chris Knight",
+    "label": "Shidler Undergraduate",
+    "picture": "https://github.com/cknight729.png",
+    "email": "cknight7@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://cknight729.github.io",
+    "summary": "I am studying for a B.B.A. in Management Information Systems at the Shilder College of Business at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "cknight729", "url": "http://github.com/cknight729" },
+      { "network": "linkedin", "username": "Chris-Knight", "url": "http://linkedin.com/in/chris-knight-35942a225/" }
+    ]
+  },
+  "interests": [
+    { "name": "Tennis" },
+    { "name": "Video Games" },
+    { "name": "Driving" },
+    { "name": "Tech" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "Git/GitHub", "g++" ]
+    },
+    {
+      "name": "Other Skills",
+      "keywords": [ "Leadership", "Communication", "Teamwork", "Analytical Skills" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Management Information Systems (expected Spring, 2025)",
+      "studyType": "B.B.A.",
+      "startDate": "2021-08-23",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Hongwanji Mission School",
+      "position": "Afterschool Leader",
+      "website": "https://www.hongwanjimissionschool.com/index.html",
+      "startDate": "2023-08-09",
+      "endDate": "Present",
+      "summary": "Afterschoool Leader for grades 5-8",
+      "highlights": [
+        "Ensuring students' safety, well-being and that they attend their afternoon classes and leave school in a timely manner throughout the afternoon.",
+        "Providing help on students' homework when requested."
+      ]
+    },
+    {
+      "company": "Hongwanji Mission School",
+      "position": "Summer Aide",
+      "website": "https://www.hongwanjimissionschool.com/index.html",
+      "startDate": "2023-06-05",
+      "endDate": "2023-07-14",
+      "summary": "",
+      "highlights": [
+        "Educating students on basic and advanced knowledge of computer components with hands-on learning through a design and build process.",
+        "The learning environment fosters teamwork, critical thinking and creativity to find solutions to any problems encountered."
+      ]
+    },
+    {
+      "company": "Pacific Buddhist Academy",
+      "position": "Office Assistant",
+      "website": "https://pacificbuddhistacademy.org/",
+      "startDate": "2021-06-08",
+      "endDate": "2023-05-25",
+      "summary": "",
+      "highlights": [
+        "Responsible for handling reception, phone operator, and keeping the office clean.",
+        "Tasked with coordinating student led activities and events including coaching the school's E-Sports Team to the playoffs in each season of competition.",
+        "Helped tutor students who were in need of extra help with their learning."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Maryknoll School",
+      "website": "https://www.maryknollschool.org/",
+      "position": "Tennis Boys & Girls D1 Assistant Coach",
+      "startDate": "2022-04-08",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Coaching and instructing tennis to students at the intermediate, junior varsity, and varsity levels.",
+        "Our teams play competitively with other schools in the ILH with select students going on to play in the yearly state tournament."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
